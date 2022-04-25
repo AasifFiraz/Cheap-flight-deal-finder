@@ -19,7 +19,8 @@ pip install requests
 pip install smptlib
 ```
 ## How to Start
-Install the excel file and update to your requirements. 
+Install the excel file and update to your requirements.
+>Run the customer_acquisition file to create new users on the excel file
 **Note -** Prices are in LKR - Update to your currency
 Upload your updated excel file to Google Drive and connect your google account to [Sheety](https://sheety.co/). 
 >Create a new project in sheety and set **authentication** if needed
